@@ -1,0 +1,12 @@
+Error: Uncaught exception in tweetError: Uncaught exception in tweet
+Error: Uncaught exception in tweet
+    at exports.postTweet (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\tweet\controllers\tweet.js:5:11)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\node_modules\express\lib\router\route.js:137:13)
+    at verify (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\middlewares\auth.js:19:5)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\HP\Desktop\nodetraining\nodetraining\Express-app\node_modules\express\lib\router\index.js:341:12)
